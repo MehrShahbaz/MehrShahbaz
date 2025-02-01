@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Js & Node Js<br>👯 I’m looking to collaborate on React & Node Js. packages/projects<br>🤝 I’m looking for help with NodeJS and ReactJS<br>🌱 I’m currently learning Next Js and AWS<br>💬 Ask me about React Js
+🔭 I’m currently working on React Js & Node Js<br>👯 I’m looking to collaborate on React & Node Js. packages/projects<br>🌱 I’m currently learning Next Js and AWS<br>💬 Ask me about React Js
 
 
 ## 🌐 Socials:
