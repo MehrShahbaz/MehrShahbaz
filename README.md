@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Js, Node Js and Python<br>👯 I’m looking to collaborate on React & Node Js. packages/projects<br>🌱 I’m currently learning Next Js and AWS<br>💬 Ask me about React Js, Node Js or Python backend
+🔭 I’m currently working on React Js, Ruby on Rails, Node Js and Python<br>👯 I’m looking to collaborate on Ruby on Rails, React & Node Js. packages/projects<br>🌱 I’m currently learning Next Js and AWS<br>💬 Ask me about React Js, Ruby on Rails or Python backend
 
 
 ## 🌐 Socials:
